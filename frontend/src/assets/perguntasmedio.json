@@ -1,0 +1,268 @@
+{
+    "questions": [
+        {
+            "questionText": "1-A adição de 150g de sacarose a um litro de água pura fará com que:",
+            "options": [
+                {
+                    "text": "Passe a conduzir corrente elétrica",
+                    "pontos": 0
+                },
+                {
+                    "text": "Sua pressão de vapor diminua.",
+                    "pontos": 10
+                },
+                {
+                    "text": "Sua pressão de vapor aumente.",
+                    "pontos": 0
+                },
+                {
+                    "text": "Seu ponde de ebulição diminua.",
+                    "pontos": 0
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText":"2-A adição de uma certa quantidade de um soluto molecular não volátil à água irá provocar:",
+            "options": [
+                {
+                    "text": "Aumento da pressão de vapor",
+                    "pontos": 0
+                },
+                {
+                    "text": "Diminuição da temperatura de ebulição.",
+                    "pontos": 0
+                },
+                {
+                    "text": "Aumento da temperatura de congelação",
+                    "pontos":0
+                },
+                {
+                    "text": "Diminuição da pressão de vapor",
+                    "pontos": 10
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "3- Ao nível do mar, uma solução aquosa de cloreto de sódio 0,1 Mol/L:",
+            "options": [
+                {
+                    "text": "Tem temperatura de ebulição igual à da água pura",
+                    "pontos":0
+                },
+                {
+                    "text": "Tem ponto de congelamento superior ao da água pura",
+                    "pontos":0
+                },
+                {
+                    "text": "Tem o mesmo número de partículas do que uma solução 0,1M de cloreto de alumínio",
+                    "pontos": 0
+                },
+                {
+                    "text":"Tem temperatura de ebulição maior do que a da água pura",
+                    "pontos":10
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "4-Para uma solução de brometo de potássio em água, assinale a afirmação incorreta",
+            "options": [
+                {
+                    "text": "A solução congela a uma temperatura inferior à da água pura",
+                    "pontos": 0
+                },
+                {
+                    "text": "A pressão de vapor da água na solução é maior que a da água pura",
+                    "pontos": 10
+                },
+                {
+                    "text": "A solução ferve a uma temperatura mais alta que a da água pura",
+                    "pontos": 0
+                },
+                {
+                    "text":" Adicionando mais KBr à solução, eleva-se sua temperatura de ebulição",
+                    "pontos":0
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "5- Num congelador, há cinco formas que contêm líquidos diferentes, para fazer gelo e picolés de limão. Se as formas forem colocadas, ao mesmo tempo, no congelador, e estiverem, inicialmente, à mesma temperatura, vai-se congelar primeiro a forma que contém 500 mL de:",
+            "options": [
+                {
+                    "text": "Água pura",
+                    "pontos": 10
+                },
+                {
+                    "text": "Solução, em água, contendo 50 mL de suco de limão",
+                    "pontos":0
+                },
+                {
+                    "text": "solução, em água, contendo 100 mL de suco de limão",
+                    "pontos": 0
+                },
+                {
+                    "text":"solução, em água, contendo 50 mL de suco de limão e 50g de açúcar",
+                    "pontos": 0
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "6-Temos uma solução de partes iguais de água, éter etílico e etanol (álcool comum) em um recipiente fechado. As pressões parciais dos vapores dos líquidos estão na seguinte ordem crescente:",
+            "options": [
+                {
+                    "text": " etanol, água, éter",
+                    "pontos": 0
+                },
+                {
+                    "text": "água, etanol, éter",
+                    "pontos": 10
+                },
+                {
+                    "text": "éter, álcool, água",
+                    "pontos": 0
+                },
+                {
+                    "text":" éter, água, álcool",
+                    "pontos" : 0
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "7- Uma das formas de se conseguir cicatrizar feridas, segundo a crença popular, é a colocação de açúcar ou pó de café sobre elas. A propriedade coligativa que melhor explica a retirada de líquido, pelo procedimento descrito, favorecendo a cicatrização, é: estudada pela",
+            "options": [
+                {
+                    "text": "osmometria",
+                    "pontos": 10
+                },
+                {
+                    "text":"crioscopia",
+                    "pontos": 0
+                },
+                {
+                    "text":"tonoscopia",
+                    "pontos": 0 
+                },
+                {
+                    "text":"ebuliometria",
+                    "pontos": 0 
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "8-O valor do ponto de ebulição determinado experimentalmente numa amostra de uma certa substância mostrou-se maior do que o valor encontrado em tabelas. Essa diferença pode ser atribuída ao fato de que, no experimento, usou-se:",
+            "options": [
+               {
+                    "text": " uma quantidade de substância muito grande",
+                    "pontos": 0
+                },
+                {
+                    "text":" uma quantidade de substância muito pequena",
+                    "pontos": 0
+                },
+                {
+                    "text":"uma substância composta",
+                    "pontos": 0 
+                },
+                {
+                    "text":"uma substância contendo impurezas",
+                    "pontos": 10 
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "9-A solução aquosa bem diluída que possui a menor temperatura de solidificação é a de:",
+            "options": [
+                {
+                    "text": "NaCl 0,01 M",
+                    "pontos": 0
+                },
+                {
+                    "text": "MgCl2 0,01 M",
+                    "pontos":0
+                },
+                {
+                    "text": "NaNO3 0,02 M",
+                    "pontos": 0
+                },
+                {
+                    "text": " NaCl 0,1 M",
+                    "pontos": 10
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            
+            "questionText": "10-Nos locais acima citados, foram colocadas batatas para cozinhar em panelas abertas idênticas, contento o mesmo volume de água. É de se esperar que as batatas fiquem cozidas, em menos tempo: ",
+            "options": [
+                {
+                    "text": "no Monte Everest, pois quanto maior for a altitude, maior é a temperatura de ebulição da água",
+                    "pontos": 0
+                },
+                {
+                    "text": "em São Paulo, pois quanto maior for a poluição atmosférica, menor será a temperatura de ebulição da água",
+                    "pontos":0
+                },
+                {
+                    "text": "na Cidade do México, por estar mais próxima do equador",
+                    "pontos": 0
+                },
+                {
+                    "text": " no Rio de Janeiro, pois, ao nível do mar, a água ferve a uma temperatura mais elevada",
+                    "pontos": 10
+                }
+            ],
+            "explanation": ""
+        }
+    ],
+    "respostas": [
+  {
+    "titulo": "0 - 10 pontos",
+    "texto": "Você ainda está começando! É hora de revisar o conteúdo e praticar mais. Não desanime, cada tentativa ajuda a aprender!"
+  },
+  {
+    "titulo": "10 - 20 pontos",
+    "texto": "Você está se familiarizando com o conteúdo, mas precisa praticar um pouco mais. Revise as questões e tente de novo!"
+  },
+  {
+    "titulo": "20 - 30 pontos",
+    "texto": "Está indo! Você já entende alguns conceitos, mas ainda há espaço para melhorar. Continue praticando!"
+  },
+  {
+    "titulo": "30 - 40 pontos",
+    "texto": "Bom trabalho! Você já compreende boa parte do conteúdo, mas vale a pena revisar os pontos que errou."
+  },
+  {
+    "titulo": "40 - 50 pontos",
+    "texto": "Muito bem! Você está no caminho certo, conhecendo bem os conceitos principais. Continue praticando para consolidar!"
+  },
+  {
+    "titulo": "50 - 60 pontos",
+    "texto": "Ótimo! Você domina a maioria dos assuntos e só precisa de pequenos ajustes. Excelente progresso!"
+  },
+  {
+    "titulo": "60 - 70 pontos",
+    "texto": "Parabéns! Você já tem um bom domínio do conteúdo, continue revisando para alcançar a perfeição!"
+  },
+  {
+    "titulo": "70 - 80 pontos",
+    "texto": "Excelente! Você entende bem o conteúdo e está quase chegando na pontuação máxima. Mantenha o ritmo!"
+  },
+  {
+    "titulo": "80 - 90 pontos",
+    "texto": "Incrível! Você domina praticamente todos os conceitos. Só faltam pequenos detalhes para o 100!"
+  },
+  {
+    "titulo": "90 - 100 pontos",
+    "texto": "Perfeito! Você tem total domínio do conteúdo. Parabéns pelo excelente desempenho!"
+  }
+]
+
+}

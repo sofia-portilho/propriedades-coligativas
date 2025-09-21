@@ -1,0 +1,333 @@
+{
+    "questions": [
+        {
+            "questionText": "1- O que é Ebulioscopia? ",
+            "options": [
+                {
+                    "text": "É a variação da temperatura de fusão.",
+                    "pontos": 0
+                },
+                {
+                    "text": " É a variação da P.M.V.",
+                    "pontos": 0
+                },
+                {
+                    "text": "É a variação do calor.",
+                    "pontos": 0
+                },
+                {
+                    "text": " É a variação da temperatura de ebulição",
+                    "pontos": 10
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "2- O que é Crioscopia? ",
+            "options": [
+                {
+                    "text": "É a variação da temperatura de fusão.",
+                    "pontos": 10
+                },
+                {
+                    "text": " É a variação da P.M.V.",
+                    "pontos": 0
+                },
+                {
+                    "text": "É a variação do calor.",
+                    "pontos": 0
+                },
+                {
+                    "text": " É a variação da temperatura de ebulição",
+                    "pontos": 0
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "3- O que é Tonoscopia? ",
+            "options": [
+                {
+                    "text": "É a variação da temperatura de fusão.",
+                    "pontos": 0
+                },
+                {
+                    "text": " É a variação da P.M.V.",
+                    "pontos": 10
+                },
+                {
+                    "text": "É a variação do calor.",
+                    "pontos": 0
+                },
+                {
+                    "text": " É a variação da temperatura de ebulição",
+                    "pontos": 0
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "4- O que é Osmoscopia? ",
+            "options": [
+                {
+                    "text": "É a variação da temperatura de fusão.",
+                    "pontos": 0
+                },
+                {
+                    "text": " É a variação da P.M.V.",
+                    "pontos": 0
+                },
+                {
+                    "text": "É a variação da pressão osmótica.",
+                    "pontos": 10
+                },
+                {
+                    "text": " É a variação da temperatura de ebulição",
+                    "pontos": 0
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "5- As propriedades coligativas das soluções dependem:",
+            "options": [
+                {
+                    "text": "Da pressão máxima de vapor do líquido.",
+                    "pontos": 0
+                },
+                {
+                    "text": " Da natureza das partículas dispersas na solução.",
+                    "pontos": 0
+                },
+                {
+                    "text": "Da natureza do solvente, somente",
+                    "pontos": 0
+                },
+                {
+                    "text": "Do número de partículas dispersas na solução",
+                    "pontos": 10
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "6- A utilização de sal em estradas com neve, a adição de aditivos anticongelantes em radiadores de carros e o uso de sal para gelar bebidas mais rapidamente são exemplos de qual propriedade coligativa?",
+            "options": [
+               {
+                    "text": "Osmoscopia ",
+                    "pontos": 0
+                },
+                {
+                    "text": "Crioscopia",
+                    "pontos": 10
+                },
+                {
+                    "text": "Tonoscopia",
+                    "pontos": 0
+                },
+                {
+                    "text": "Ebulioscopia",
+                    "pontos": 0
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "7- “É o estudo da diminuição da pressão de vapor de um líquido quando um soluto não volátil é adicionado a ele.” A definição anterior se refere a qual propriedade coligativa?",
+            "options": [
+                {
+                    "text": "Osmoscopia ",
+                    "pontos": 0
+                },
+                {
+                    "text": "Crioscopia",
+                    "pontos": 0
+                },
+                {
+                    "text": "Tonoscopia",
+                    "pontos": 10
+                },
+                {
+                    "text": "Ebulioscopia",
+                    "pontos": 0
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "8-  A imagem abaixo é exemplo de qual propriedade coligativa?",
+            "options": [
+                {
+                    "text": "Osmoscopia ",
+                    "pontos": 10
+                },
+                {
+                    "text": "Crioscopia",
+                    "pontos": 0
+                },
+                {
+                    "text": "Tonoscopia",
+                    "pontos": 0
+                },
+                {
+                    "text": "Ebulioscopia",
+                    "pontos": 0
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "9- “Estuda o comportamento do ponto de ebulição de um solvente ao receber um soluto não volátil.” A definição anterior se refere a qual propriedade coligativa?",
+            "options": [
+                {
+                    "text": "Osmoscopia ",
+                    "pontos": 0
+                },
+                {
+                    "text": "Crioscopia",
+                    "pontos": 0
+                },
+                {
+                    "text": "Tonoscopia",
+                    "pontos": 0
+                },
+                {
+                    "text": "Ebulioscopia",
+                    "pontos": 10
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "10- A pressão máxima de vapor (P.M.V) é a pressão exercida pelo vapor de uma substância quando este está em equilíbrio com a sua fase líquida, a uma dada temperatura. Sabendo disso, é exemplo de P.M.V: ",
+            "options": [
+                {
+                    "text": "Osmoscopia Pressão exercida pelo vapor de água a 25 °C em um local aberto, como o ambiente.",
+                    "pontos": 0
+                },
+                {
+                    "text": "Pressão exercida pelo vapor de água dentro de um recipiente fechado, a 25 °C.",
+                    "pontos": 10
+                },
+                {
+                    "text": "Pressão de vapor de uma substância a 25 °C que está completamente no estado gasoso.",
+                    "pontos": 0
+                },
+                {
+                    "text": " Pressão de vapor de uma substância em um recipiente aberto, a 100 °C.",
+                    "pontos": 0
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "11- A temperatura de ebulição de uma solução aquosa de cloreto de sódio, sob pressão constante, tende a aumentar ou diminuir com o decorrer da ebulição? ",
+            "options": [
+                {
+                    "text": "Aumenta.",
+                    "pontos": 10
+                },
+                {
+                    "text": "Diminui.",
+                    "pontos": 0
+                },
+                {
+                    "text": "Permanece a mesma temperatura.",
+                    "pontos": 0
+                },
+                {
+                    "text": "Aumenta até 100 °C e depois permanece constante.",
+                    "pontos": 0
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "12- A imagem abaixo é exemplo de qual propriedade coligativa?",
+            "options": [
+                {
+                    "text": "Osmoscopia ",
+                    "pontos": 0
+                },
+                {
+                    "text": "Crioscopia",
+                    "pontos": 0
+                },
+                {
+                    "text": "Tonoscopia",
+                    "pontos": 0
+                },
+                {
+                    "text": "Ebulioscopia",
+                    "pontos": 10
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "13- Ao temperar a salada com sal ou molhos, cria-se um meio hipertônico ao redor das folhas de alface, levando à perda de água e ao murchamento das mesmas. A afirmação anterior se refere a qual propriedade coligativa?",
+            "options": [
+               {
+                    "text": "Osmoscopia ",
+                    "pontos": 10
+                },
+                {
+                    "text": "Crioscopia",
+                    "pontos": 0
+                },
+                {
+                    "text": "Tonoscopia",
+                    "pontos": 0
+                },
+                {
+                    "text": "Ebulioscopia",
+                    "pontos": 0
+                }
+            ],
+            "explanation": ""
+        }
+    ],
+    "respostas": [
+  {
+    "titulo": "0 - 10 pontos",
+    "texto": "Você ainda está começando! É hora de revisar o conteúdo e praticar mais. Não desanime, cada tentativa ajuda a aprender!"
+  },
+  {
+    "titulo": "10 - 20 pontos",
+    "texto": "Você está se familiarizando com o conteúdo, mas precisa praticar um pouco mais. Revise as questões e tente de novo!"
+  },
+  {
+    "titulo": "20 - 30 pontos",
+    "texto": "Está indo! Você já entende alguns conceitos, mas ainda há espaço para melhorar. Continue praticando!"
+  },
+  {
+    "titulo": "30 - 40 pontos",
+    "texto": "Bom trabalho! Você já compreende boa parte do conteúdo, mas vale a pena revisar os pontos que errou."
+  },
+  {
+    "titulo": "40 - 50 pontos",
+    "texto": "Muito bem! Você está no caminho certo, conhecendo bem os conceitos principais. Continue praticando para consolidar!"
+  },
+  {
+    "titulo": "50 - 60 pontos",
+    "texto": "Ótimo! Você domina a maioria dos assuntos e só precisa de pequenos ajustes. Excelente progresso!"
+  },
+  {
+    "titulo": "60 - 70 pontos",
+    "texto": "Parabéns! Você já tem um bom domínio do conteúdo, continue revisando para alcançar a perfeição!"
+  },
+  {
+    "titulo": "70 - 80 pontos",
+    "texto": "Excelente! Você entende bem o conteúdo e está quase chegando na pontuação máxima. Mantenha o ritmo!"
+  },
+  {
+    "titulo": "80 - 90 pontos",
+    "texto": "Incrível! Você domina praticamente todos os conceitos. Só faltam pequenos detalhes para o 100!"
+  },
+  {
+    "titulo": "90 - 100 pontos",
+    "texto": "Perfeito! Você tem total domínio do conteúdo. Parabéns pelo excelente desempenho!"
+  }
+]
+
+}
