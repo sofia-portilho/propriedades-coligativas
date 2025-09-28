@@ -156,6 +156,7 @@
         },
         {
             "questionText": "8-  A imagem abaixo é exemplo de qual propriedade coligativa?",
+            "img":"./assets/img/imageQ8.png",
             "options": [
                 {
                     "text": "Osmoscopia ",
@@ -202,7 +203,7 @@
             "questionText": "10- A pressão máxima de vapor (P.M.V) é a pressão exercida pelo vapor de uma substância quando este está em equilíbrio com a sua fase líquida, a uma dada temperatura. Sabendo disso, é exemplo de P.M.V: ",
             "options": [
                 {
-                    "text": "Osmoscopia Pressão exercida pelo vapor de água a 25 °C em um local aberto, como o ambiente.",
+                    "text": "Pressão exercida pelo vapor de água a 25 °C em um local aberto, como o ambiente.",
                     "pontos": 0
                 },
                 {
@@ -321,11 +322,11 @@
     "texto": "Excelente! Você entende bem o conteúdo e está quase chegando na pontuação máxima. Mantenha o ritmo!"
   },
   {
-    "titulo": "80 - 90 pontos",
-    "texto": "Incrível! Você domina praticamente todos os conceitos. Só faltam pequenos detalhes para o 100!"
+    "titulo": "80 - 100 pontos",
+    "texto": "Incrível! Você domina praticamente todos os conceitos. Só faltam pequenos detalhes!"
   },
   {
-    "titulo": "90 - 100 pontos",
+    "titulo": "100 - 130 pontos",
     "texto": "Perfeito! Você tem total domínio do conteúdo. Parabéns pelo excelente desempenho!"
   }
 ]
