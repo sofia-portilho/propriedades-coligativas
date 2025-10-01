@@ -72,15 +72,15 @@ export class NivelmedioComponent implements OnInit{
   resultadoTexto() {
     $('div.quiz').addClass("disabled");
     this.resultadoTextContainer = true;
-    if (this.pontuacao < 41) {
-      this.texto = this.listarespostas[0].texto;
-      this.titulo = this.listarespostas[0].titulo;
-    } else if (this.pontuacao > 40 && this.pontuacao < 91) {
-      this.texto = this.listarespostas[1].texto;
-      this.titulo = this.listarespostas[1].titulo;
-    } else {
-      this.texto = this.listarespostas[2].texto;
-      this.titulo = this.listarespostas[2].titulo;
-    }
+    if (this.pontuacao <= 30) { // 0 a 30 pontos
+    this.texto = this.listarespostas[0].texto;
+    this.titulo = this.listarespostas[0].titulo;
+  } else if (this.pontuacao <= 80) { // 31 a 80 pontos
+    this.texto = this.listarespostas[2].texto;
+    this.titulo = this.listarespostas[2].titulo;
+  } else { // 81 a 100 pontos
+    this.texto = this.listarespostas[3].texto; 
+    this.titulo = this.listarespostas[3].titulo;
+  }
   }
 }

@@ -16,8 +16,13 @@
         </div>
         <div class="card">
             <div class="question">
-                <div>
-                    {{listaquestoes[questaocorrente]?.questionText}}
+                <div class="row">
+                    <div>
+                        {{listaquestoes[questaocorrente]?.questionText}}
+                    </div>
+                    <div *ngIf="listaquestoes[questaocorrente]?.img">
+                        <img [src]="listaquestoes[questaocorrente]?.img" width="400px" height="250px">
+                    </div>
                 </div>
             </div>
         </div>

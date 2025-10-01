@@ -7,7 +7,7 @@ import { NiveldificilComponent } from './niveldificil/niveldificil.component';
 
 
 const routes: Routes = [
-  {path: '',     component: HomeComponent},
+  {path: 'home',     component: HomeComponent},
   {path:'nivelfacil', component: NivelfacilComponent},
   {path:'nivelmedio',component: NivelmedioComponent},
   {path:'niveldificil',component: NiveldificilComponent}

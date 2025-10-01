@@ -200,7 +200,8 @@
         },
         {
             
-            "questionText": "10-Nos locais acima citados, foram colocadas batatas para cozinhar em panelas abertas idênticas, contento o mesmo volume de água. É de se esperar que as batatas fiquem cozidas, em menos tempo: ",
+            "questionText": "10-Nos locais citados abaixo, foram colocadas batatas para cozinhar em panelas abertas idênticas, contento o mesmo volume de água. É de se esperar que as batatas fiquem cozidas, em menos tempo: ",
+            "img":"./assets/img/imageQ10me.png",
             "options": [
                 {
                     "text": "no Monte Everest, pois quanto maior for a altitude, maior é a temperatura de ebulição da água",
@@ -224,40 +225,16 @@
     ],
     "respostas": [
   {
-    "titulo": "0 - 10 pontos",
+    "titulo": "0 - 30 pontos",
     "texto": "Você ainda está começando! É hora de revisar o conteúdo e praticar mais. Não desanime, cada tentativa ajuda a aprender!"
   },
   {
-    "titulo": "10 - 20 pontos",
-    "texto": "Você está se familiarizando com o conteúdo, mas precisa praticar um pouco mais. Revise as questões e tente de novo!"
-  },
-  {
-    "titulo": "20 - 30 pontos",
-    "texto": "Está indo! Você já entende alguns conceitos, mas ainda há espaço para melhorar. Continue praticando!"
-  },
-  {
-    "titulo": "30 - 40 pontos",
-    "texto": "Bom trabalho! Você já compreende boa parte do conteúdo, mas vale a pena revisar os pontos que errou."
-  },
-  {
-    "titulo": "40 - 50 pontos",
-    "texto": "Muito bem! Você está no caminho certo, conhecendo bem os conceitos principais. Continue praticando para consolidar!"
-  },
-  {
-    "titulo": "50 - 60 pontos",
-    "texto": "Ótimo! Você domina a maioria dos assuntos e só precisa de pequenos ajustes. Excelente progresso!"
-  },
-  {
-    "titulo": "60 - 70 pontos",
-    "texto": "Parabéns! Você já tem um bom domínio do conteúdo, continue revisando para alcançar a perfeição!"
+    "titulo": "40 - 60 pontos",
+    "texto": "Você está indo bem! Com um pouco mais de prática, vai dominar o conteúdo. Continue se esforçando!"
   },
   {
     "titulo": "70 - 80 pontos",
-    "texto": "Excelente! Você entende bem o conteúdo e está quase chegando na pontuação máxima. Mantenha o ritmo!"
-  },
-  {
-    "titulo": "80 - 90 pontos",
-    "texto": "Incrível! Você domina praticamente todos os conceitos. Só faltam pequenos detalhes para o 100!"
+    "texto": "Muito bom! Você compreende bem a maioria dos conceitos. Continue revisando os detalhes para melhorar ainda mais!"
   },
   {
     "titulo": "90 - 100 pontos",
