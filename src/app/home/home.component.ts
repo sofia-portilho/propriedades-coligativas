@@ -13,13 +13,13 @@ export class HomeComponent implements OnInit {
 
   slides: Slide[] = [
     {
-      imagem: 'assets/img/Untitled.jpg'
+      imagem: './assets/img/Untitled.jpg'
     },
     {
-      imagem: 'assets/img/alunas.jpg'
+      imagem: './assets/img/alunas.jpg'
     },
     {
-      imagem: 'assets/img/.jpg'
+      imagem: './assets/img/.jpg'
     }
   ];
 
