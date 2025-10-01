@@ -1,8 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
 interface Slide {
-  titulo: string;
-  descricao: string;
   imagem: string;
 }
 
@@ -15,19 +13,13 @@ export class HomeComponent implements OnInit {
 
   slides: Slide[] = [
     {
-      titulo: 'Sobre o Projeto',
-      descricao: 'Informações sobre o projeto vão aqui.',
-      imagem: 'assets/img/sobre.jpg'
+      imagem: 'assets/img/Untitled.jpg'
     },
     {
-      titulo: 'Participantes',
-      descricao: 'Lista de participantes do projeto.',
-      imagem: 'assets/img/participantes.jpg'
+      imagem: 'assets/img/alunas.jpg'
     },
     {
-      titulo: 'Resultados',
-      descricao: 'Resultados ou conquistas do projeto.',
-      imagem: 'assets/img/resultados.jpg'
+      imagem: 'assets/img/.jpg'
     }
   ];
 
