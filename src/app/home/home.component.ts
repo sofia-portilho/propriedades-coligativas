@@ -39,7 +39,7 @@ export class HomeComponent implements OnInit {
     this.currentIndex = (this.currentIndex - 1 + this.slides.length) % this.slides.length;
   }
 
-  startAutoSlide(interval: number = 5000): void {
+  startAutoSlide(interval: number =20000): void {
     setInterval(() => {
       this.nextSlide();
     }, interval);
