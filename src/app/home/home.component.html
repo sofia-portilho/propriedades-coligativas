@@ -4,13 +4,21 @@
     class="carrossel-slide" 
     *ngFor="let slide of slides; let i = index" 
     [class.active]="i === currentIndex">
-    <h2 class="text-center">{{ slide.titulo }}</h2>
-    <p class="text-center">{{ slide.descricao }}</p>
-    <img [src]="slide.imagem" [alt]="slide.titulo" class="img-fluid rounded mx-auto d-block">
+    
+    <img [src]="slide.imagem" [alt]="'Slide ' + (i+1)" class="img-fluid rounded mx-auto d-block">
   </div>
 
   <!-- Botões de navegação -->
   <button class="prev" (click)="prevSlide()">&#10094;</button>
   <button class="next" (click)="nextSlide()">&#10095;</button>
+
+  <!-- Indicadores -->
+  <div class="indicators">
+    <span 
+      *ngFor="let slide of slides; let i = index"
+      [class.active]="i === currentIndex"
+      (click)="currentIndex = i">
+    </span>
+  </div>
 
 </div>

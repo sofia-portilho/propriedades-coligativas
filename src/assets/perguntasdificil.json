@@ -13,7 +13,7 @@
     },
     {
       "questionText": "2- O efeito crioscópico observado pela adição de cloreto de sódio à água pode ter várias finalidades, como auxiliar na fabricação de sorvetes. Com base nisso, é correto afirmar:",
-      "img":"./assets/img/dificilq2.png",
+      "img":"/assets/img/dificilq2.png",
       "options": [
         {"text": "A adição de cloreto de sódio eleva a pressão de vapor da água.", "pontos": 0},
         {"text": "A adição de 15g de NaCl para cada 100g de solução provoca um abaixamento de cerca de 11ºC na temperatura de congelação.", "pontos": 10},
@@ -25,7 +25,7 @@
     },
     {
       "questionText": "3- As propriedades físicas dos líquidos podem ser comparadas a partir de um gráfico de pressão de vapor em função da temperatura. Segundo o gráfico, o líquido mais volátil será a substância:",
-      "img":"./assets/img/q3.png",
+      "img":"/assets/img/q3.png",
       "options": [
         {"text": "A", "pontos": 10},
         {"text": "B", "pontos": 0},
