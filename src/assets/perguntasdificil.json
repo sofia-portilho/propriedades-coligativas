@@ -35,7 +35,7 @@
     },
     {
       "questionText": "4- Ao investigar as propriedades coligativas das soluções, um estudante promoveu o congelamento e a ebulição de três soluções aquosas de solutos não voláteis (A, B e C), ao nível do mar. O resultado obtido foi registrado na tabela abaixo.Após a análise dos resultados obtidos, o estudante fez as seguintes afirmações:I. a solução A é aquela que, dentre as soluções analisadas, apresenta maior concentração em mol⋅L-1. II. a solução B é aquela que, dentre as soluções analisadas, apresenta menor pressão de vapor. III. a solução C é aquela que, dentre as soluções analisadas, apresenta menor volatilidade. De acordo com os dados fornecidos e com seus conhecimentos, pode-se dizer que apenas",
-      "img":"/assets/certa4.jpg",
+      "img":"/assets/img/certa4.png",
       "options": [
         {"text": "a)A afirmação I está correta.", "pontos": 0},
         {"text": "b)A afirmação II está correta.", "pontos": 0},
@@ -46,7 +46,7 @@
     },
     {
       "questionText": "5- Três frascos contêm água pura a 25°C. Vários estudantes mediram a pressão de vapor e fizeram quatro anotações:PA = PB ; PA diferente de PC ; PC diferente de PB ; PA = PB = PC;. Quantas dessas anotações estão corretas?",
-      "img":"/assets/img/questão4.png",
+      "img":"/assets/img/questão4.jpgima",
       "options": [
         {"text": "a)Uma", "pontos": 0},
         {"text": "b)Duas", "pontos": 10},
