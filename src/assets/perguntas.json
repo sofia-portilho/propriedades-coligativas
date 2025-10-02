@@ -4,7 +4,7 @@
             "questionText": "1- O que é Ebulioscopia? ",
             "options": [
                 {
-                    "text": "a)É a variação da temperatura de fusão.",
+                    "text": "a) É a variação da temperatura de fusão.",
                     "pontos": 0
                 },
                 {
@@ -12,7 +12,7 @@
                     "pontos": 0
                 },
                 {
-                    "text": "c)É a variação do calor.",
+                    "text": "c) É a variação do calor.",
                     "pontos": 0
                 },
                 {
@@ -26,7 +26,7 @@
             "questionText": "2- O que é Crioscopia? ",
             "options": [
                 {
-                    "text": "a)É a variação da temperatura de fusão.",
+                    "text": "a) É a variação da temperatura de fusão.",
                     "pontos": 10
                 },
                 {
@@ -34,7 +34,7 @@
                     "pontos": 0
                 },
                 {
-                    "text": "c)É a variação do calor.",
+                    "text": "c) É a variação do calor.",
                     "pontos": 0
                 },
                 {
@@ -48,7 +48,7 @@
             "questionText": "3- O que é Tonoscopia? ",
             "options": [
                 {
-                    "text": "a)É a variação da temperatura de fusão.",
+                    "text": "a) É a variação da temperatura de fusão.",
                     "pontos": 0
                 },
                 {
@@ -56,7 +56,7 @@
                     "pontos": 10
                 },
                 {
-                    "text": "c)É a variação do calor.",
+                    "text": "c) É a variação do calor.",
                     "pontos": 0
                 },
                 {
@@ -70,7 +70,7 @@
             "questionText": "4- O que é Osmoscopia? ",
             "options": [
                 {
-                    "text": "a)É a variação da temperatura de fusão.",
+                    "text": "a) É a variação da temperatura de fusão.",
                     "pontos": 0
                 },
                 {
@@ -78,11 +78,11 @@
                     "pontos": 0
                 },
                 {
-                    "text": "c)É a variação da pressão osmótica.",
+                    "text": "c) É a variação da pressão osmótica.",
                     "pontos": 10
                 },
                 {
-                    "text": " d)É a variação da temperatura de ebulição",
+                    "text": " d) É a variação da temperatura de ebulição",
                     "pontos": 0
                 }
             ],
@@ -92,7 +92,7 @@
             "questionText": "5- As propriedades coligativas das soluções dependem:",
             "options": [
                 {
-                    "text": "a)Da pressão máxima de vapor do líquido.",
+                    "text": "a) Da pressão máxima de vapor do líquido.",
                     "pontos": 0
                 },
                 {
@@ -100,11 +100,11 @@
                     "pontos": 0
                 },
                 {
-                    "text": "c)Da natureza do solvente, somente",
+                    "text": "c) Da natureza do solvente, somente",
                     "pontos": 0
                 },
                 {
-                    "text": "d)Do número de partículas dispersas na solução",
+                    "text": "d) Do número de partículas dispersas na solução",
                     "pontos": 10
                 }
             ],
@@ -114,19 +114,19 @@
             "questionText": "6- A utilização de sal em estradas com neve, a adição de aditivos anticongelantes em radiadores de carros e o uso de sal para gelar bebidas mais rapidamente são exemplos de qual propriedade coligativa?",
             "options": [
                {
-                    "text": "a)Osmoscopia ",
+                    "text": "a) Osmoscopia ",
                     "pontos": 0
                 },
                 {
-                    "text": "b)Crioscopia",
+                    "text": "b) Crioscopia",
                     "pontos": 10
                 },
                 {
-                    "text": "c)Tonoscopia",
+                    "text": "c) Tonoscopia",
                     "pontos": 0
                 },
                 {
-                    "text": "d)Ebulioscopia",
+                    "text": "d) Ebulioscopia",
                     "pontos": 0
                 }
             ],
@@ -136,19 +136,19 @@
             "questionText": "7- “É o estudo da diminuição da pressão de vapor de um líquido quando um soluto não volátil é adicionado a ele.” A definição anterior se refere a qual propriedade coligativa?",
             "options": [
                 {
-                    "text": "a)Osmoscopia ",
+                    "text": "a) Osmoscopia ",
                     "pontos": 0
                 },
                 {
-                    "text": "b)Crioscopia",
+                    "text": "b) Crioscopia",
                     "pontos": 0
                 },
                 {
-                    "text": "c)Tonoscopia",
+                    "text": "c) Tonoscopia",
                     "pontos": 10
                 },
                 {
-                    "text": "d)Ebulioscopia",
+                    "text": "d) Ebulioscopia",
                     "pontos": 0
                 }
             ],
@@ -159,19 +159,19 @@
             "img":"./assets/img/imageQ8fa.png",
             "options": [
                 {
-                    "text": "a)Osmoscopia ",
+                    "text": "a) Osmoscopia ",
                     "pontos": 10
                 },
                 {
-                    "text": "b)Crioscopia",
+                    "text": "b) Crioscopia",
                     "pontos": 0
                 },
                 {
-                    "text": "c)Tonoscopia",
+                    "text": "c) Tonoscopia",
                     "pontos": 0
                 },
                 {
-                    "text": "d)Ebulioscopia",
+                    "text": "d) Ebulioscopia",
                     "pontos": 0
                 }
             ],
@@ -181,19 +181,19 @@
             "questionText": "9- “Estuda o comportamento do ponto de ebulição de um solvente ao receber um soluto não volátil.” A definição anterior se refere a qual propriedade coligativa?",
             "options": [
                 {
-                    "text": "a)Osmoscopia ",
+                    "text": "a) Osmoscopia ",
                     "pontos": 0
                 },
                 {
-                    "text": "b)Crioscopia",
+                    "text": "b) Crioscopia",
                     "pontos": 0
                 },
                 {
-                    "text": "c)Tonoscopia",
+                    "text": "c) Tonoscopia",
                     "pontos": 0
                 },
                 {
-                    "text": "d)Ebulioscopia",
+                    "text": "d) Ebulioscopia",
                     "pontos": 10
                 }
             ],
@@ -203,15 +203,15 @@
             "questionText": "10- A pressão máxima de vapor (P.M.V) é a pressão exercida pelo vapor de uma substância quando este está em equilíbrio com a sua fase líquida, a uma dada temperatura. Sabendo disso, é exemplo de P.M.V: ",
             "options": [
                 {
-                    "text": "a)Pressão exercida pelo vapor de água a 25 °C em um local aberto, como o ambiente.",
+                    "text": "a) Pressão exercida pelo vapor de água a 25 °C em um local aberto, como o ambiente.",
                     "pontos": 0
                 },
                 {
-                    "text": "b)Pressão exercida pelo vapor de água dentro de um recipiente fechado, a 25 °C.",
+                    "text": "b) Pressão exercida pelo vapor de água dentro de um recipiente fechado, a 25 °C.",
                     "pontos": 10
                 },
                 {
-                    "text": "c)Pressão de vapor de uma substância a 25 °C que está completamente no estado gasoso.",
+                    "text": "c) Pressão de vapor de uma substância a 25 °C que está completamente no estado gasoso.",
                     "pontos": 0
                 },
                 {
