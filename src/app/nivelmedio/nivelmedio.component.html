@@ -20,11 +20,8 @@
                     <div>
                         {{listaquestoes[questaocorrente]?.questionText}}
                     </div>
-                    <div class="position-relative">
-                        <div *ngIf="listaquestoes[questaocorrente]?.img">
-                            <div class="position-absolute top-50 start-50 translate-middle"><img [src]="listaquestoes[questaocorrente]?.img" width="350px" height="170px">
-                            </div>
-                        </div>
+                    <div *ngIf="listaquestoes[questaocorrente]?.img">
+                        <img [src]="listaquestoes[questaocorrente]?.img" width="400px" height="250px">
                     </div>
                 </div>
             </div>
