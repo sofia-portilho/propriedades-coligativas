@@ -12,7 +12,7 @@
       "explanation": ""
     },
     {
-      "questionText": "2- O efeito crioscópico observado pela adição de cloreto de sódio à água pode ter várias finalidades, como auxiliar na fabricação de sorvetes. Com base nisso, é correto afirmar:",
+      "questionText": "2-O gráfico representa o efeito crioscópico observado pela adição de quantidades gradativas de cloreto de sódio à água, o que pode ter várias finalidades, como, por exemplo, auxiliar na fabricação do sorvete.Com base no gráfico, é correto afirmar que  ",
       "img":"/assets/img/dificilq2.png",
       "options": [
         {"text": "A adição de cloreto de sódio eleva a pressão de vapor da água.", "pontos": 0},
@@ -24,8 +24,8 @@
       "explanation": ""
     },
     {
-      "questionText": "3- As propriedades físicas dos líquidos podem ser comparadas a partir de um gráfico de pressão de vapor em função da temperatura. Segundo o gráfico, o líquido mais volátil será a substância:",
-      "img":"/assets/img/q3.png",
+      "questionText": "3- As propriedades físicas dos líquidos podem ser comparadas a partir de um gráfico de pressão de vapor em função da temperatura, como mostrado no gráfico hipotético a seguir para as substâncias A, B, C e D. Segundo o gráfico, o líquido mais volátil será a substância:",
+      "img":"/assets/img/q3.jpg",
       "options": [
         {"text": "A", "pontos": 10},
         {"text": "B", "pontos": 0},
@@ -35,7 +35,8 @@
       "explanation": ""
     },
     {
-      "questionText": "4- Ao analisar três soluções aquosas de solutos não voláteis (A, B e C), com pontos de congelamento e ebulição diferentes, pode-se afirmar que:",
+      "questionText": "4- Ao investigar as propriedades coligativas das soluções, um estudante promoveu o congelamento e a ebulição de três soluções aquosas de solutos não voláteis (A, B e C), ao nível do mar. O resultado obtido foi registrado na tabela abaixo.Após a análise dos resultados obtidos, o estudante fez as seguintes afirmações:",
+      "img":"/assets/img/q3.jpg",
       "options": [
         {"text": "A afirmação I está correta.", "pontos": 0},
         {"text": "A afirmação II está correta.", "pontos": 0},
@@ -46,7 +47,8 @@
       "explanation": ""
     },
     {
-      "questionText": "5- Três frascos contêm água pura a 25°C. Vários estudantes mediram a pressão de vapor e fizeram quatro anotações. Quantas dessas anotações estão corretas?",
+      "questionText": "5- Três frascos contêm água pura a 25°C. Vários estudantes mediram a pressão de vapor e fizeram quatro anotações:PA = PB ; PA diferente de PC ; PC diferente de PB ; PA = PB = PC;. Quantas dessas anotações estão corretas?",
+      "img":"/assets/img/q3.jpg",
       "options": [
         {"text": "Uma", "pontos": 0},
         {"text": "Duas", "pontos": 10},
@@ -69,6 +71,7 @@
     },
     {
       "questionText": "7- Os peixes ósseos marinhos possuem tonicidade interna maior que a da água doce. Pode-se identificar o(s) seguinte(s) tipo(s) de transporte(s) no esquema de setas 1 e 2:",
+       "img":"/assets/img/q3.jpg",
       "options": [
         {"text": "Liberação de bomba de Na+ e Cl- pelo peixe.", "pontos": 0},
         {"text": "Liberação de íons carbonatos pelo peixe.", "pontos": 0},
@@ -90,6 +93,7 @@
     },
     {
       "questionText": "9- Um diagrama de fases de uma substância pura mostra quatro transformações isobáricas (A, B, C e D). Assinale a transformação em que a amostra, durante a fase líquida, absorveu maior quantidade de calor.",
+       "img":"/assets/img/q3.jpg",
       "options": [
         {"text": "A", "pontos": 0},
         {"text": "B", "pontos": 0},
@@ -100,6 +104,7 @@
     },
     {
       "questionText": "10- Um líquido puro e uma solução de um soluto não volátil neste líquido têm suas pressões de vapor em função da temperatura. Determine o ponto de ebulição aproximado do líquido puro ao nível do mar.",
+       "img":"/assets/img/q3.jpg",
       "options": [
        {"text": "78°C", "pontos": 0},
         {"text": "100", "pontos": 10},
