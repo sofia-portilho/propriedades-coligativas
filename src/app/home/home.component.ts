@@ -19,7 +19,7 @@ export class HomeComponent implements OnInit {
       imagem: "assets/img/alunas.png"
     },
     {
-      imagem: 'assets/img/bg.png'
+      imagem: 'assets/img/orientadores.png'
     }
   ];
 

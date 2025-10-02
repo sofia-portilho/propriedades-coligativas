@@ -4,19 +4,19 @@
             "questionText": "1-A adição de 150g de sacarose a um litro de água pura fará com que:",
             "options": [
                 {
-                    "text": "Passe a conduzir corrente elétrica",
+                    "text": "a)Passe a conduzir corrente elétrica",
                     "pontos": 0
                 },
                 {
-                    "text": "Sua pressão de vapor diminua.",
+                    "text": "b)Sua pressão de vapor diminua.",
                     "pontos": 10
                 },
                 {
-                    "text": "Sua pressão de vapor aumente.",
+                    "text": "c)Sua pressão de vapor aumente.",
                     "pontos": 0
                 },
                 {
-                    "text": "Seu ponde de ebulição diminua.",
+                    "text": "d)Seu ponde de ebulição diminua.",
                     "pontos": 0
                 }
             ],
@@ -26,19 +26,19 @@
             "questionText":"2-A adição de uma certa quantidade de um soluto molecular não volátil à água irá provocar:",
             "options": [
                 {
-                    "text": "Aumento da pressão de vapor",
+                    "text": "a)Aumento da pressão de vapor",
                     "pontos": 0
                 },
                 {
-                    "text": "Diminuição da temperatura de ebulição.",
+                    "text": "b)Diminuição da temperatura de ebulição.",
                     "pontos": 0
                 },
                 {
-                    "text": "Aumento da temperatura de congelação",
+                    "text": "c)Aumento da temperatura de congelação",
                     "pontos":0
                 },
                 {
-                    "text": "Diminuição da pressão de vapor",
+                    "text": "d)Diminuição da pressão de vapor",
                     "pontos": 10
                 }
             ],
@@ -48,19 +48,19 @@
             "questionText": "3- Ao nível do mar, uma solução aquosa de cloreto de sódio 0,1 Mol/L:",
             "options": [
                 {
-                    "text": "Tem temperatura de ebulição igual à da água pura",
+                    "text": "a)Tem temperatura de ebulição igual à da água pura",
                     "pontos":0
                 },
                 {
-                    "text": "Tem ponto de congelamento superior ao da água pura",
+                    "text": "b)Tem ponto de congelamento superior ao da água pura",
                     "pontos":0
                 },
                 {
-                    "text": "Tem o mesmo número de partículas do que uma solução 0,1M de cloreto de alumínio",
+                    "text": "c)Tem o mesmo número de partículas do que uma solução 0,1M de cloreto de alumínio",
                     "pontos": 0
                 },
                 {
-                    "text":"Tem temperatura de ebulição maior do que a da água pura",
+                    "text":"d)Tem temperatura de ebulição maior do que a da água pura",
                     "pontos":10
                 }
             ],
@@ -70,19 +70,19 @@
             "questionText": "4-Para uma solução de brometo de potássio em água, assinale a afirmação incorreta",
             "options": [
                 {
-                    "text": "A solução congela a uma temperatura inferior à da água pura",
+                    "text": "a)A solução congela a uma temperatura inferior à da água pura",
                     "pontos": 0
                 },
                 {
-                    "text": "A pressão de vapor da água na solução é maior que a da água pura",
+                    "text": "b)A pressão de vapor da água na solução é maior que a da água pura",
                     "pontos": 10
                 },
                 {
-                    "text": "A solução ferve a uma temperatura mais alta que a da água pura",
+                    "text": "c)A solução ferve a uma temperatura mais alta que a da água pura",
                     "pontos": 0
                 },
                 {
-                    "text":" Adicionando mais KBr à solução, eleva-se sua temperatura de ebulição",
+                    "text":" d)Adicionando mais KBr à solução, eleva-se sua temperatura de ebulição",
                     "pontos":0
                 }
             ],
@@ -92,19 +92,19 @@
             "questionText": "5- Num congelador, há cinco formas que contêm líquidos diferentes, para fazer gelo e picolés de limão. Se as formas forem colocadas, ao mesmo tempo, no congelador, e estiverem, inicialmente, à mesma temperatura, vai-se congelar primeiro a forma que contém 500 mL de:",
             "options": [
                 {
-                    "text": "Água pura",
+                    "text": "a)Água pura",
                     "pontos": 10
                 },
                 {
-                    "text": "Solução, em água, contendo 50 mL de suco de limão",
+                    "text": "b)Solução, em água, contendo 50 mL de suco de limão",
                     "pontos":0
                 },
                 {
-                    "text": "solução, em água, contendo 100 mL de suco de limão",
+                    "text": "c)solução, em água, contendo 100 mL de suco de limão",
                     "pontos": 0
                 },
                 {
-                    "text":"solução, em água, contendo 50 mL de suco de limão e 50g de açúcar",
+                    "text":"d)solução, em água, contendo 50 mL de suco de limão e 50g de açúcar",
                     "pontos": 0
                 }
             ],
@@ -114,19 +114,19 @@
             "questionText": "6-Temos uma solução de partes iguais de água, éter etílico e etanol (álcool comum) em um recipiente fechado. As pressões parciais dos vapores dos líquidos estão na seguinte ordem crescente:",
             "options": [
                 {
-                    "text": " etanol, água, éter",
+                    "text": "a) etanol, água, éter",
                     "pontos": 0
                 },
                 {
-                    "text": "água, etanol, éter",
+                    "text": "b)água, etanol, éter",
                     "pontos": 10
                 },
                 {
-                    "text": "éter, álcool, água",
+                    "text": "c)éter, álcool, água",
                     "pontos": 0
                 },
                 {
-                    "text":" éter, água, álcool",
+                    "text":" d)éter, água, álcool",
                     "pontos" : 0
                 }
             ],
@@ -136,19 +136,19 @@
             "questionText": "7- Uma das formas de se conseguir cicatrizar feridas, segundo a crença popular, é a colocação de açúcar ou pó de café sobre elas. A propriedade coligativa que melhor explica a retirada de líquido, pelo procedimento descrito, favorecendo a cicatrização, é: estudada pela",
             "options": [
                 {
-                    "text": "osmometria",
+                    "text": "a)osmometria",
                     "pontos": 10
                 },
                 {
-                    "text":"crioscopia",
+                    "text":"b)crioscopia",
                     "pontos": 0
                 },
                 {
-                    "text":"tonoscopia",
+                    "text":"c)tonoscopia",
                     "pontos": 0 
                 },
                 {
-                    "text":"ebuliometria",
+                    "text":"d)ebuliometria",
                     "pontos": 0 
                 }
             ],
@@ -158,19 +158,19 @@
             "questionText": "8-O valor do ponto de ebulição determinado experimentalmente numa amostra de uma certa substância mostrou-se maior do que o valor encontrado em tabelas. Essa diferença pode ser atribuída ao fato de que, no experimento, usou-se:",
             "options": [
                {
-                    "text": " uma quantidade de substância muito grande",
+                    "text": "a) uma quantidade de substância muito grande",
                     "pontos": 0
                 },
                 {
-                    "text":" uma quantidade de substância muito pequena",
+                    "text":" b)uma quantidade de substância muito pequena",
                     "pontos": 0
                 },
                 {
-                    "text":"uma substância composta",
+                    "text":"c)uma substância composta",
                     "pontos": 0 
                 },
                 {
-                    "text":"uma substância contendo impurezas",
+                    "text":"d)uma substância contendo impurezas",
                     "pontos": 10 
                 }
             ],
@@ -180,19 +180,19 @@
             "questionText": "9-A solução aquosa bem diluída que possui a menor temperatura de solidificação é a de:",
             "options": [
                 {
-                    "text": "NaCl 0,01 M",
+                    "text": "a)NaCl 0,01 M",
                     "pontos": 0
                 },
                 {
-                    "text": "MgCl2 0,01 M",
+                    "text": "b)MgCl2 0,01 M",
                     "pontos":0
                 },
                 {
-                    "text": "NaNO3 0,02 M",
+                    "text": "c)NaNO3 0,02 M",
                     "pontos": 0
                 },
                 {
-                    "text": " NaCl 0,1 M",
+                    "text": " d)NaCl 0,1 M",
                     "pontos": 10
                 }
             ],
@@ -204,19 +204,19 @@
             "img":"./assets/img/imageQ10me.png",
             "options": [
                 {
-                    "text": "no Monte Everest, pois quanto maior for a altitude, maior é a temperatura de ebulição da água",
+                    "text": "a)no Monte Everest, pois quanto maior for a altitude, maior é a temperatura de ebulição da água",
                     "pontos": 0
                 },
                 {
-                    "text": "em São Paulo, pois quanto maior for a poluição atmosférica, menor será a temperatura de ebulição da água",
+                    "text": "b)em São Paulo, pois quanto maior for a poluição atmosférica, menor será a temperatura de ebulição da água",
                     "pontos":0
                 },
                 {
-                    "text": "na Cidade do México, por estar mais próxima do equador",
+                    "text": "c)na Cidade do México, por estar mais próxima do equador",
                     "pontos": 0
                 },
                 {
-                    "text": " no Rio de Janeiro, pois, ao nível do mar, a água ferve a uma temperatura mais elevada",
+                    "text": "d) no Rio de Janeiro, pois, ao nível do mar, a água ferve a uma temperatura mais elevada",
                     "pontos": 10
                 }
             ],

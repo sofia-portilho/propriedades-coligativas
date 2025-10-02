@@ -3,11 +3,11 @@
     {
       "questionText": "1- Uma das estratégias para conservação de alimentos é o salgamento, adição de cloreto de sódio (NaCl), historicamente utilizado para conservar carnes. O que ocorre com as células presentes nos alimentos preservados com essa técnica?",
       "options": [
-        {"text": "O sal adicionado diminui a concentração de solutos em seu interior.",
+        {"text": "a)O sal adicionado diminui a concentração de solutos em seu interior.",
         "pontos": 0},
-        {"text": "O sal adicionado desorganiza e destrói suas membranas plasmáticas.", "pontos": 0},
-        {"text": "A adição de sal altera as propriedades de suas membranas plasmáticas.", "pontos": 0},
-        {"text": "A grande concentração de sal no meio extracelular provoca a saída de água de dentro delas.", "pontos": 10}
+        {"text": "b)O sal adicionado desorganiza e destrói suas membranas plasmáticas.", "pontos": 0},
+        {"text": "c)A adição de sal altera as propriedades de suas membranas plasmáticas.", "pontos": 0},
+        {"text": "d)A grande concentração de sal no meio extracelular provoca a saída de água de dentro delas.", "pontos": 10}
       ],
       "explanation": ""
     },
@@ -15,11 +15,10 @@
       "questionText": "2-O gráfico representa o efeito crioscópico observado pela adição de quantidades gradativas de cloreto de sódio à água, o que pode ter várias finalidades, como, por exemplo, auxiliar na fabricação do sorvete.Com base no gráfico, é correto afirmar que  ",
       "img":"/assets/img/dificilq2.png",
       "options": [
-        {"text": "A adição de cloreto de sódio eleva a pressão de vapor da água.", "pontos": 0},
-        {"text": "A adição de 15g de NaCl para cada 100g de solução provoca um abaixamento de cerca de 11ºC na temperatura de congelação.", "pontos": 10},
-        {"text": "A solução passa a fundir em torno de 8°C com a adição de 10g de NaCl em 100g de solução.", "pontos": 0},
-        {"text": "É necessária uma temperatura abaixo de –15°C para congelar a solução formada por 10,0kg de água e 1,0kg de sal.", "pontos": 0},
-        {"text": "É possível baixar o ponto de congelação de 0,5L de água a –10°C, pela adição de 50g de NaCl.", "pontos": 0}
+        {"text": "a)A adição de cloreto de sódio eleva a pressão de vapor da água.", "pontos": 0},
+        {"text": "b)A adição de 15g de NaCl para cada 100g de solução provoca um abaixamento de cerca de 11ºC na temperatura de congelação.", "pontos": 10},
+        {"text": "c)A solução passa a fundir em torno de 8°C com a adição de 10g de NaCl em 100g de solução.", "pontos": 0},
+        {"text": "d)É necessária uma temperatura abaixo de –15°C para congelar a solução formada por 10,0kg de água e 1,0kg de sal.", "pontos": 0}
       ],
       "explanation": ""
     },
@@ -27,89 +26,85 @@
       "questionText": "3- As propriedades físicas dos líquidos podem ser comparadas a partir de um gráfico de pressão de vapor em função da temperatura, como mostrado no gráfico hipotético a seguir para as substâncias A, B, C e D. Segundo o gráfico, o líquido mais volátil será a substância:",
       "img":"/assets/img/q3.jpg",
       "options": [
-        {"text": "A", "pontos": 10},
-        {"text": "B", "pontos": 0},
-        {"text": "C", "pontos": 0},
-        {"text": "D", "pontos": 0}
+        {"text": "a)A", "pontos": 10},
+        {"text": "b)B", "pontos": 0},
+        {"text": "d)C", "pontos": 0},
+        {"text": "e)D", "pontos": 0}
       ],
       "explanation": ""
     },
     {
-      "questionText": "4- Ao investigar as propriedades coligativas das soluções, um estudante promoveu o congelamento e a ebulição de três soluções aquosas de solutos não voláteis (A, B e C), ao nível do mar. O resultado obtido foi registrado na tabela abaixo.Após a análise dos resultados obtidos, o estudante fez as seguintes afirmações:",
-      "img":"/assets/img/q3.jpg",
+      "questionText": "4- Ao investigar as propriedades coligativas das soluções, um estudante promoveu o congelamento e a ebulição de três soluções aquosas de solutos não voláteis (A, B e C), ao nível do mar. O resultado obtido foi registrado na tabela abaixo.Após a análise dos resultados obtidos, o estudante fez as seguintes afirmações:I. a solução A é aquela que, dentre as soluções analisadas, apresenta maior concentração em mol⋅L-1. II. a solução B é aquela que, dentre as soluções analisadas, apresenta menor pressão de vapor. III. a solução C é aquela que, dentre as soluções analisadas, apresenta menor volatilidade. De acordo com os dados fornecidos e com seus conhecimentos, pode-se dizer que apenas",
+      "img":"/assets/certa4.jpg",
       "options": [
-        {"text": "A afirmação I está correta.", "pontos": 0},
-        {"text": "A afirmação II está correta.", "pontos": 0},
-        {"text": "A afirmação III está correta.", "pontos": 0},
-        {"text": "As afirmações I e II estão corretas.", "pontos": 10},
-        {"text": "As afirmações II e III estão corretas.", "pontos": 0}
+        {"text": "a)A afirmação I está correta.", "pontos": 0},
+        {"text": "b)A afirmação II está correta.", "pontos": 0},
+        {"text": "c)A afirmação III está correta.", "pontos": 10},
+        {"text": "d)As afirmações I e II estão corretas.", "pontos": 0}
       ],
       "explanation": ""
     },
     {
       "questionText": "5- Três frascos contêm água pura a 25°C. Vários estudantes mediram a pressão de vapor e fizeram quatro anotações:PA = PB ; PA diferente de PC ; PC diferente de PB ; PA = PB = PC;. Quantas dessas anotações estão corretas?",
-      "img":"/assets/img/q3.jpg",
+      "img":"/assets/img/questão4.png",
       "options": [
-        {"text": "Uma", "pontos": 0},
-        {"text": "Duas", "pontos": 10},
-        {"text": "Três", "pontos": 0},
-        {"text": "Todas", "pontos": 0},
-        {"text": "Nenhuma", "pontos": 0}
+        {"text": "a)Uma", "pontos": 0},
+        {"text": "b)Duas", "pontos": 10},
+        {"text": "c)Três", "pontos": 0},
+        {"text": "d)Todas", "pontos": 0}
       ],
       "explanation": ""
     },
     {
       "questionText": "6- A uma dada temperatura, possui a menor pressão de vapor a solução aquosa:",
       "options": [
-        {"text": "0,1 mol/L de glicose.", "pontos": 0},
-        {"text": "0,2 mol/L de glicose.", "pontos": 10},
-        {"text": "0,1 mol/L de ácido nítrico.", "pontos": 0},
-        {"text": "0,2 mol/L de ácido nítrico.", "pontos": 0},
-        {"text": "0,1 mol/L de ácido clorídrico.", "pontos": 0}
+        {"text": "a)0,1 mol/L de glicose.", "pontos": 0},
+        {"text": "b)0,2 mol/L de glicose.", "pontos": 10},
+        {"text": "c)0,1 mol/L de ácido nítrico.", "pontos": 0},
+        {"text": "d)0,2 mol/L de ácido nítrico.", "pontos": 10}
       ],
       "explanation": ""
     },
     {
       "questionText": "7- Os peixes ósseos marinhos possuem tonicidade interna maior que a da água doce. Pode-se identificar o(s) seguinte(s) tipo(s) de transporte(s) no esquema de setas 1 e 2:",
-       "img":"/assets/img/q3.jpg",
+       "img":"/assets/img/questão6.png",
       "options": [
-        {"text": "Liberação de bomba de Na+ e Cl- pelo peixe.", "pontos": 0},
-        {"text": "Liberação de íons carbonatos pelo peixe.", "pontos": 0},
-        {"text": "Transporte ativo e osmose.", "pontos": 10},
-        {"text": "Difusão e transporte ativo.", "pontos": 0},
-        {"text": "Osmose e difusão.", "pontos": 0}
+        {"text": "a)Liberação de bomba de Na+ e Cl- pelo peixe.", "pontos": 0},
+        {"text": "b)Liberação de íons carbonatos pelo peixe.", "pontos": 0},
+        {"text": "c)Transporte ativo e osmose.", "pontos": 0},
+        {"text": "d)Osmose e difusão.", "pontos": 10}
       ],
       "explanation": ""
     },
     {
       "questionText": "8- Assinale o ponto de congelamento de uma solução aquosa de nitrato de cromo III na concentração 0,25 mol/kg. Constante crioscópica molal da água (Kc)=1,86 °C·kg·mol-1.",
       "options": [
-        {"text": "-0,46 °C", "pontos": 0},
-        {"text": "-1,39 °C", "pontos": 10},
-        {"text": "-0,93 °C", "pontos": 0},
-        {"text": "-1,86 °C", "pontos": 0}
+        {"text": "a)-0,46 °C", "pontos": 0},
+        {"text": "b)-1,39 °C", "pontos": 0},
+        {"text": "c)-0,93 °C", "pontos": 0},
+        {"text": "d)-1,86 °C", "pontos": 10}
       ],
       "explanation": ""
     },
     {
       "questionText": "9- Um diagrama de fases de uma substância pura mostra quatro transformações isobáricas (A, B, C e D). Assinale a transformação em que a amostra, durante a fase líquida, absorveu maior quantidade de calor.",
-       "img":"/assets/img/q3.jpg",
+       "img":"/assets/img/questão9.png",
       "options": [
-        {"text": "A", "pontos": 0},
-        {"text": "B", "pontos": 0},
-        {"text": "C", "pontos": 0},
-        {"text": "D", "pontos": 10}
+        {"text": "a)A", "pontos": 0},
+        {"text": "b)B", "pontos": 0},
+        {"text": "c)C", "pontos": 10},
+        {"text": "d)D", "pontos": 0}
       ],
       "explanation": ""
     },
     {
       "questionText": "10- Um líquido puro e uma solução de um soluto não volátil neste líquido têm suas pressões de vapor em função da temperatura. Determine o ponto de ebulição aproximado do líquido puro ao nível do mar.",
-       "img":"/assets/img/q3.jpg",
+       "img":"/assets/img/questão10.png",
       "options": [
-       {"text": "78°C", "pontos": 0},
-        {"text": "100", "pontos": 10},
-        {"text": "120", "pontos": 0},
-        {"text": "90°C", "pontos": 0}
+       {"text": "a)78°C", "pontos": 0},
+        {"text": "b)100", "pontos": 10},
+        {"text": "c)120", "pontos": 0},
+        {"text": "d)90°C", "pontos": 0}
       ],
       "explanation": ""
     }
