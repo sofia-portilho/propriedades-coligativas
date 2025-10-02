@@ -46,7 +46,7 @@
     },
     {
       "questionText": "5- Três frascos contêm água pura a 25°C. Vários estudantes mediram a pressão de vapor e fizeram quatro anotações:PA = PB ; PA diferente de PC ; PC diferente de PB ; PA = PB = PC;. Quantas dessas anotações estão corretas?",
-      "img":"/assets/img/questão4.jpgima",
+      "img":"/assets/img/questão4.png",
       "options": [
         {"text": "a)Uma", "pontos": 0},
         {"text": "b)Duas", "pontos": 10},
@@ -88,7 +88,7 @@
     },
     {
       "questionText": "9- Um diagrama de fases de uma substância pura mostra quatro transformações isobáricas (A, B, C e D). Assinale a transformação em que a amostra, durante a fase líquida, absorveu maior quantidade de calor.",
-       "img":"/assets/img/questão9.png",
+       "img":"/assets/img/quetão9.png",
       "options": [
         {"text": "a)A", "pontos": 0},
         {"text": "b)B", "pontos": 0},
@@ -99,7 +99,7 @@
     },
     {
       "questionText": "10- Um líquido puro e uma solução de um soluto não volátil neste líquido têm suas pressões de vapor em função da temperatura. Determine o ponto de ebulição aproximado do líquido puro ao nível do mar.",
-       "img":"/assets/img/questão10.png",
+       "img":"/assets/img/questao10.png",
       "options": [
        {"text": "a)78°C", "pontos": 0},
         {"text": "b)100", "pontos": 10},
